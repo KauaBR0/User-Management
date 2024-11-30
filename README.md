@@ -10,6 +10,7 @@ A modern full-stack application built with Hono.js and Drizzle ORM using Postgre
 - User and Post management
 - CORS enabled
 - Request logging
+- Remix and React Frontend
 
 ## Prerequisites
 
